@@ -4,7 +4,11 @@
 # vim: set ts=3 sw=3 tw=0:
 # vim: set expandtab:
 
-=head1 Rex::Template::TT - Use Template::Toolkit with Rex
+=head1 NAME
+
+Rex::Template::TT - Use Template::Toolkit with Rex
+
+=head1 DESCRIPTION
 
 This module enables the use of Template::Toolkit for Rex Templates.
 
@@ -33,7 +37,7 @@ package Rex::Template::TT;
 use strict;
 use warnings;
 
-our $VERSION = "0.33.0";
+our $VERSION = "0.33.1";
 
 use Template;
 
