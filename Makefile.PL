@@ -9,7 +9,7 @@ WriteMakefile1(
    #BUILD_REQUIRES => {
    #},
 
-   NAME => 'Rex-Template-TT',
+   NAME => 'Rex::Template::TT',
    VERSION_FROM => 'lib/Rex/Template/TT.pm',
    PREREQ_PM => {
       Template => 0,
