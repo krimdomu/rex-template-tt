@@ -37,7 +37,7 @@ package Rex::Template::TT;
 use strict;
 use warnings;
 
-our $VERSION = "0.33.1";
+# VERSION
 
 use Template;
 
